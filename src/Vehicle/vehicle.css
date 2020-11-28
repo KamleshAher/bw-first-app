@@ -1,0 +1,10 @@
+.vehicle {
+    display: inline-block;
+    margin: 10px;
+    text-align: left;
+    color: blanchedalmond;
+    box-shadow: 0 5px 10px  rgb(60, 2, 114);
+    padding: 5px 10px 5px 15px;
+    max-width: 24%;
+    background-color: cadetblue;
+  }
